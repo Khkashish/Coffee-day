@@ -1,5 +1,3 @@
-# KapeTann Coffee Shop Website
-
 > Welcome to **KapeTann**, a coffee lover's paradise! 
 >
 >Discover a world of exquisite flavors as you embark on a flavorful journey with us.
